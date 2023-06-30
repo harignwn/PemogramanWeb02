@@ -134,7 +134,7 @@ $Keuntungan = $totalpemasukan - $totalModal;
                           <th> No Handphone </th>
                           <th> Email </th>
                           <th> Jumlah Pesanan </th>
-                          <th> Deskripsi </th>
+                          <th> Deskripsi </th>  
                           <th> Produk ID </th>
                         </tr>
                       </thead>
